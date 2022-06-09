@@ -39,4 +39,9 @@ public class ContactsPage extends TestBase
 		save_button.click();
 		
 	}
+	public void test_method()
+	{
+		System.out.println("addnew");
+	}
+	
 }
